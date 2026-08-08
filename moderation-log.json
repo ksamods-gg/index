@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "action": "role_admin",
+    "subject_kind": "account",
+    "subject_id": "averageksp",
+    "rationale": "Given the admin role.",
+    "created_at": "2026-08-08T18:25:07.594429+00:00"
+  }
+]
