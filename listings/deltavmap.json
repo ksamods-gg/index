@@ -4,7 +4,6 @@
   "type": "mod",
   "name": "KSA-DeltaVMap",
   "authors": [
-    "earth",
     "Maxi"
   ],
   "abstract": "Interactive delta-v subway map for Kitten Space Agency",
