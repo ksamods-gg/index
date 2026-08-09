@@ -1,0 +1,17 @@
+{
+  "spec_version": 1,
+  "id": "StarMap",
+  "type": "mod",
+  "name": "StarMap",
+  "authors": [
+    "earth"
+  ],
+  "abstract": "KSA Mod Loader",
+  "license": "MIT",
+  "tags": [],
+  "status": "active",
+  "links": {
+    "forums": "https://forums.ahwoo.com/threads/starmap-mod-loader.384/"
+  },
+  "dependencies": []
+}
