@@ -1,0 +1,17 @@
+{
+  "spec_version": 1,
+  "id": "DeltaVMap",
+  "type": "mod",
+  "name": "KSA-DeltaVMap",
+  "authors": [
+    "earth"
+  ],
+  "abstract": "Interactive delta-v subway map for Kitten Space Agency",
+  "license": "MIT",
+  "tags": [],
+  "status": "active",
+  "links": {
+    "forums": "https://forums.ahwoo.com/threads/deltavmap.978/"
+  },
+  "dependencies": []
+}
