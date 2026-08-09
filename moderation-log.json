@@ -158,5 +158,205 @@
     "subject_id": "StarMap",
     "rationale": "test",
     "created_at": "2026-08-09T16:58:11.678576+00:00"
+  },
+  {
+    "id": 21,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.43",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:00:19.21986+00:00"
+  },
+  {
+    "id": 22,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.42",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:00:19.888521+00:00"
+  },
+  {
+    "id": 23,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.41",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:00:20.654535+00:00"
+  },
+  {
+    "id": 24,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.40",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:00:21.265884+00:00"
+  },
+  {
+    "id": 25,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.38",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:00:21.752389+00:00"
+  },
+  {
+    "id": 26,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.37",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:00:22.312577+00:00"
+  },
+  {
+    "id": 27,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.36",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:00:22.748333+00:00"
+  },
+  {
+    "id": 28,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.35",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:00:23.22188+00:00"
+  },
+  {
+    "id": 29,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.34",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:00:23.591432+00:00"
+  },
+  {
+    "id": 30,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.33",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:00:23.976495+00:00"
+  },
+  {
+    "id": 31,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.32",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:00:24.284476+00:00"
+  },
+  {
+    "id": 32,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.31",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:00:24.588399+00:00"
+  },
+  {
+    "id": 33,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.30",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:00:24.83331+00:00"
+  },
+  {
+    "id": 34,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.29",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:00:25.153566+00:00"
+  },
+  {
+    "id": 35,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.28",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:00:25.361881+00:00"
+  },
+  {
+    "id": 36,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.27",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:00:25.573938+00:00"
+  },
+  {
+    "id": 37,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.26",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:00:25.755101+00:00"
+  },
+  {
+    "id": 38,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.25",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:00:26.053004+00:00"
+  },
+  {
+    "id": 39,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.24",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:00:26.454524+00:00"
+  },
+  {
+    "id": 40,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.23",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:00:26.764221+00:00"
+  },
+  {
+    "id": 41,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.22",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:00:26.937068+00:00"
+  },
+  {
+    "id": 42,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.21",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:00:27.126617+00:00"
+  },
+  {
+    "id": 43,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.20",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:00:27.315903+00:00"
+  },
+  {
+    "id": 44,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.19",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:00:27.48706+00:00"
+  },
+  {
+    "id": 45,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.18",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:00:27.812263+00:00"
   }
 ]
