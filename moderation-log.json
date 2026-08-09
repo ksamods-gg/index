@@ -142,5 +142,13 @@
     "subject_id": "DeltaVMap@1.0.0",
     "rationale": "Reviewed; nothing to act on.",
     "created_at": "2026-08-09T14:00:04.820323+00:00"
+  },
+  {
+    "id": 19,
+    "action": "report_dismissed",
+    "subject_kind": "mod",
+    "subject_id": "DeltaVMap",
+    "rationale": "test",
+    "created_at": "2026-08-09T14:22:25.548798+00:00"
   }
 ]
