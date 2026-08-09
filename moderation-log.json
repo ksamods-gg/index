@@ -358,5 +358,141 @@
     "subject_id": "KSArmory@0.8.18",
     "rationale": "Reviewed; nothing to act on.",
     "created_at": "2026-08-09T18:00:27.812263+00:00"
+  },
+  {
+    "id": 46,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.17",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:01:55.035114+00:00"
+  },
+  {
+    "id": 47,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.16",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:01:55.668502+00:00"
+  },
+  {
+    "id": 48,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.15",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:01:56.264495+00:00"
+  },
+  {
+    "id": 49,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.14",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:01:56.655125+00:00"
+  },
+  {
+    "id": 50,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.13",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:01:56.918211+00:00"
+  },
+  {
+    "id": 51,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.12",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:01:57.131168+00:00"
+  },
+  {
+    "id": 52,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.11",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:01:57.319464+00:00"
+  },
+  {
+    "id": 53,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.10",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:01:57.533824+00:00"
+  },
+  {
+    "id": 54,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.9",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:01:57.723123+00:00"
+  },
+  {
+    "id": 55,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.8",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:01:57.921121+00:00"
+  },
+  {
+    "id": 56,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.7",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:01:58.133623+00:00"
+  },
+  {
+    "id": 57,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.6",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:01:58.342599+00:00"
+  },
+  {
+    "id": 58,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.5",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:01:58.557573+00:00"
+  },
+  {
+    "id": 59,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.4",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:01:58.766357+00:00"
+  },
+  {
+    "id": 60,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.3",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:01:59.033244+00:00"
+  },
+  {
+    "id": 61,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.2",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:01:59.242186+00:00"
+  },
+  {
+    "id": 62,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.1",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T18:01:59.464583+00:00"
   }
 ]
