@@ -6,5 +6,141 @@
     "subject_id": "averageksp",
     "rationale": "Given the admin role.",
     "created_at": "2026-08-08T18:25:07.594429+00:00"
+  },
+  {
+    "id": 2,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "DeltaVMap@1.2.1",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T13:59:58.994446+00:00"
+  },
+  {
+    "id": 3,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "DeltaVMap@1.2.0",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T13:59:59.798999+00:00"
+  },
+  {
+    "id": 4,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "DeltaVMap@1.1.11",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T14:00:00.377238+00:00"
+  },
+  {
+    "id": 5,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "DeltaVMap@1.1.10",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T14:00:00.855576+00:00"
+  },
+  {
+    "id": 6,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "DeltaVMap@1.1.9",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T14:00:01.288901+00:00"
+  },
+  {
+    "id": 7,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "DeltaVMap@1.1.8",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T14:00:01.446297+00:00"
+  },
+  {
+    "id": 8,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "DeltaVMap@1.1.7",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T14:00:02.09607+00:00"
+  },
+  {
+    "id": 9,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "DeltaVMap@1.1.6",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T14:00:02.267581+00:00"
+  },
+  {
+    "id": 10,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "DeltaVMap@1.1.5",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T14:00:02.425769+00:00"
+  },
+  {
+    "id": 11,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "DeltaVMap@1.1.4",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T14:00:02.598234+00:00"
+  },
+  {
+    "id": 12,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "DeltaVMap@1.1.3",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T14:00:02.761377+00:00"
+  },
+  {
+    "id": 13,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "DeltaVMap@1.1.2",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T14:00:02.906217+00:00"
+  },
+  {
+    "id": 14,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "DeltaVMap@1.1.1",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T14:00:03.137733+00:00"
+  },
+  {
+    "id": 15,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "DeltaVMap@1.1.0",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T14:00:03.30846+00:00"
+  },
+  {
+    "id": 16,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "DeltaVMap@1.0.2",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T14:00:03.485772+00:00"
+  },
+  {
+    "id": 17,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "DeltaVMap@1.0.1",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T14:00:03.82124+00:00"
+  },
+  {
+    "id": 18,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "DeltaVMap@1.0.0",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-09T14:00:04.820323+00:00"
   }
 ]
