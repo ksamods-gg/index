@@ -1,15 +1,7 @@
 {
-  "snapshot_version": 1,
   "spec_version": 1,
-  "generated_at": "2026-08-22T06:39:44.8805513+00:00",
-  "counts": {
-    "listings": 0,
-    "releases": 0,
-    "modlists": 0
-  },
-  "listings": [],
-  "releases": [],
-  "modlists": [],
-  "status": [],
-  "builds": []
+  "generated_at": "2026-08-22T06:51:14.5871531+00:00",
+  "listings": 2,
+  "releases": 18,
+  "modlists": 0
 }
