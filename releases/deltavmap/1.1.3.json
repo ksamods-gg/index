@@ -1,0 +1,22 @@
+{
+  "spec_version": 1,
+  "id": "DeltaVMap",
+  "type": "mod",
+  "version": "1.1.3",
+  "version_scheme": "semver",
+  "release_status": "stable",
+  "release_date": "2026-06-20T21:54:10+00:00",
+  "download": {
+    "url": "https://github.com/Maximilian-Nesslauer/KSA-DeltaVMap/releases/download/v1.1.3/DeltaVMap.zip",
+    "sha256": "842f563941efeffe04cd017265b9c10675ae994afe2b41f743b795abc73a2a6f",
+    "size": 93228,
+    "content_type": "application/octet-stream"
+  },
+  "install_size": 205374,
+  "install": {
+    "root": "DeltaVMap",
+    "derived": true
+  },
+  "dependencies": [],
+  "changelog": "https://github.com/Maximilian-Nesslauer/KSA-DeltaVMap/releases/tag/v1.1.3"
+}
