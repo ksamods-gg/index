@@ -1,7 +1,10 @@
 {
-  "spec_version": 1,
-  "generated_at": "2026-08-29T14:34:37.0622639+00:00",
-  "listings": 2,
-  "releases": 18,
-  "modlists": 0
+  "snapshot_version": 1,
+  "listings": [],
+  "packs": [],
+  "game_versions": {
+    "spec_version": 1,
+    "source": "http://ksa-master1.rocketwerkz.com:8082/version",
+    "versions": []
+  }
 }
