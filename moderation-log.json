@@ -494,5 +494,29 @@
     "subject_id": "KSArmory@0.8.1",
     "rationale": "Reviewed; nothing to act on.",
     "created_at": "2026-08-09T18:01:59.464583+00:00"
+  },
+  {
+    "id": 63,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "DeltaVMap@1.2.3",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-29T14:39:30.947967+00:00"
+  },
+  {
+    "id": 64,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "DeltaVMap@1.2.2",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-29T14:39:31.900894+00:00"
+  },
+  {
+    "id": 65,
+    "action": "review_cleared",
+    "subject_kind": "release",
+    "subject_id": "KSArmory@0.8.44",
+    "rationale": "Reviewed; nothing to act on.",
+    "created_at": "2026-08-29T14:39:32.628087+00:00"
   }
 ]
